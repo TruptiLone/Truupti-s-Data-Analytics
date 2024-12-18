@@ -1,2 +1,2 @@
-# Truupti-s-Data-Analytics
+#Data-Analytics
 Data Analytics Project
