@@ -1,14 +1,30 @@
-#Data-Analytics
-Data Analytics Project
+# Data Analytics Project
 
-The Data set we have used is from Kaggle website:
-https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
-The Airbnb dataset includes information on over 100,000 listings, capturing details like location, room type, price, host verification, and review metrics.
+This project is based on a dataset obtained from Kaggle: [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata). The dataset contains information on over 100,000 Airbnb listings, capturing details such as location, room type, price, host verification, and review metrics.
 
-The concepts that are covered in this project are:
-Data Wrangling : Data cleaning, Data transformation, Dealing with missing values
-Seaborn and Data Vizualization
-Classification : Decision Tree
+## Concepts Covered
 
+This project explores several key concepts in data analytics:
 
-Mark Down cheatsheet : https://www.markdownguide.org/cheat-sheet/
+### 1. **Data Wrangling**
+   - Data cleaning
+   - Data transformation
+   - Dealing with missing values
+
+### 2. **Data Visualization**
+   - Using Seaborn for visual exploration of the data
+
+### 3. **Classification**
+   - Implementing a **Decision Tree** for classification tasks
+
+## Technologies & Tools Used
+- **Python**: Programming language
+- **Pandas**: Data manipulation
+- **Seaborn**: Data visualization
+- **Scikit-learn**: Machine learning for classification
+
+## Resources
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+Feel free to explore the project, and don't hesitate to contribute or reach out with any questions!
+
